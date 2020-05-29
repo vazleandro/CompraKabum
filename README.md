@@ -2,11 +2,8 @@
 
 ![Cucumber Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNLP1uKFI4KKqqCh6CMXJqtvZnfHjriSn9HG-dZC6ALsSVT_MrRg)
 
-Sinta-se à vontade para baixar ou clonar o código fonte: 
-https://github.com/vazleandro/Cucumber-Selenium-API.git
-
 # Descrição:
-O Projeto visa apresentar uma maneira de realizar teste automatizados de API e de aplicações Web com Selenium.
+O Projeto visa apresentar uma maneira de realizar teste automatizados de um Ecommerce e de aplicações Web com Selenium.
 É utilizado a ferramenta Cucumber para executar os testes automatizados e o Gherkin para escrever os cenários de testes.
 
 
