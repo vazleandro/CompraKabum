@@ -1,5 +1,3 @@
-# Cucumber-Selenium-API
-
 ![Cucumber Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNLP1uKFI4KKqqCh6CMXJqtvZnfHjriSn9HG-dZC6ALsSVT_MrRg)
 
 # Descrição:
